@@ -42,7 +42,7 @@ All copies, modifications, or derivative works must include:
 
 ```
 Based on the S₀ Protocol.
-Original source: https://github.com/<YOUR-REPO>
+Original source: https://github.com/jengbeng/s0-protocol
 License: S0 Invariant Commons License v1.0
 ```
 
